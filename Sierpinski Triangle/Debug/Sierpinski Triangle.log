@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ahmed hany\source\repos\opengl first\opengl first\main.cpp(97): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  OpenGL first.vcxproj -> C:\Users\Ahmed Hany\source\repos\OpenGL first\Debug\OpenGL first.exe
+  OpenGL first.vcxproj -> C:\Users\Ahmed Hany\source\repos\OpenGL first\Debug\OpenGL first.pdb (Partial PDB)
